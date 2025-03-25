@@ -1,6 +1,6 @@
-# Projeto de Testes Automatizados com Cypress - Curso de QA (Alura) 💻
+# Projeto de Testes Automatizados com Cypress (e2e) - Curso de QA (Alura) 💻
 
-Este repositório contém os testes automatizados realizados como parte do curso de Qualidade de Software (QA) da Alura. Durante o curso, aprendi os princípios de teste de software e, nesta etapa, comecei a aplicar esses conhecimentos utilizando o **Cypress** para automação de testes em uma aplicação web fictícia AdoPet.
+Este repositório contém os testes automatizados e2e realizados como parte do curso de Qualidade de Software (QA) da Alura. Durante o curso, aprendi os princípios de teste de software e, nesta etapa, comecei a aplicar esses conhecimentos utilizando o **Cypress** para automação de testes em uma aplicação web fictícia AdoPet.
 
 ## Descrição do Projeto
 
