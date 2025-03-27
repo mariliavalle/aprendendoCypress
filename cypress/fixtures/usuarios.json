@@ -1,0 +1,39 @@
+{
+    "usuarios": [
+        {
+            "name": "Harry Potter",
+            "email": "potter.harry@alura.com.br",
+            "password": "Senha12345"
+        },
+
+        {
+            "name": "Ron Wesley",
+            "email": "ron@alura.com.br",
+            "password": "Senha123456"
+        },
+
+        {
+            "name": "Hermione Granger",
+            "email": "hermione.granger@alura.com",
+            "password": "Senha1234567"
+        },
+
+        {
+            "name": "Luna Lovegood",
+            "email": "luna@alura.com.br",
+            "password": "Senha12345678"
+        },
+
+        {
+            "name": "Dobby",
+            "email": "dobby@alura.com",
+            "password": "Senha123456789"
+        },
+
+        {
+            "name": "Sirius Black",
+            "email": "black@alura.com.br",
+            "password": "Senha1234567890"
+        }
+    ]
+}
